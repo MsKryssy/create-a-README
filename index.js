@@ -26,7 +26,7 @@ const questions = [
     },
     {
         type: 'input',
-        name: 'test',
+        name: 'tests',
         message: 'Will this project include any testing instructions?',
     },
     {

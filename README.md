@@ -3,32 +3,28 @@
 
 
 ## Description
-sample text
+Practice Description text goes here.
 
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
-- [Contributing](#contributing)
 - [Tests](#tests)
 - [Contact](#contact)
 
 ## Installation
-sample like so
+Install like so
 
 ## Usage
-sample usage like so
+Used like so
 
 ## License
 
-
-## Contributing
-undefined
 
 ## Tests
 undefined
 
 ## Contact
 Please email all questions to:
-- Email: sample@email.com
+- Email: practiceemail@practice.com
 - GitHub: [github.com/MsKryssy](https://github.com/github.com/MsKryssy)
